@@ -1,4 +1,4 @@
-- # 👋¡Hola! Soy Natalia Feria de la Cruz 👋
+ # 👋¡Hola! Soy Natalia Feria de la Cruz 👋
 
 ## Sobre mí
 Soy una futura desarrolladora de aplicaciones multiplataforma y apasionado del mundo tecnológico. Actualmente me encuentro formándome para adquirir todo el conocimiento posible para llegar a ser una de las mejores en el sector. Mi experiencia laboral, esta marcada principalmente en otro campo laboral, pero a lo largo de los años he aprendido que, trabajando duro y con perseverancia, se puede llegar lejos. Me considero una persona resolutiva, con capacidad de aprendizaje, autodidacta, perseverante y con dotes organizativas.
